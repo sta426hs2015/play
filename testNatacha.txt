@@ -1,0 +1,5 @@
+looking for papers for journal club
+
+
+Article Source: Statistical Methods for Detecting Differentially Abundant Features in Clinical Metagenomic Samples
+White JR, Nagarajan N, Pop M (2009) Statistical Methods for Detecting Differentially Abundant Features in Clinical Metagenomic Samples. PLoS Comput Biol 5(4): e1000352. doi: 10.1371/journal.pcbi.1000352
